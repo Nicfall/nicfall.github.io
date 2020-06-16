@@ -1,2 +1,2 @@
 ![Image](images/logo.jpg)
-![Image2](images/picture1 copy.png)
+![Image2](images/coral_heat.png)
